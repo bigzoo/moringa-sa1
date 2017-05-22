@@ -1,0 +1,37 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: #f2e2b8;
+    clear: left;
+    text-align: center;
+}
+aside {
+    float: left;
+    max-width: 250px;
+    margin: 0;
+    padding: 1em;
+    background-color: #75c48c;
+    width: 100%;
+    
+}
+
+label{
+	font-weight: bold;
+}
+
+#content {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+.color1{
+	color: #f2e2b8;
+}
+.name{
+	color: white;
+}
